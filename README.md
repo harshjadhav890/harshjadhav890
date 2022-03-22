@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshjadhav890
 - 👀 I’m interested in Machine learning, Data Science and Deep Learning
-- 🌱 I’m currently learning Deep learning
+- 🌱 I’m currently learning Deep learning and Computer Vision
 - 💞️ I’m looking to collaborate on End to End Data Science Projects
 
 <!---
